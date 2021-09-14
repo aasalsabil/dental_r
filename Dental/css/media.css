@@ -1,0 +1,25 @@
+@media(max-width:575px){
+      .nav-item{
+        padding: 8px;
+    }
+    .sub_head ul li {
+        margin-right: -14px;
+        text-transform: capitalize;
+    }
+    .sub_head ul li a {
+        margin-right: 18px;
+    }
+    .banner_img{
+        display: none;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .care{
+        margin-left: 0;
+    }
+    .banner_content h1 {
+        font-size: 37px;
+        width: 87%;
+    }
+}
